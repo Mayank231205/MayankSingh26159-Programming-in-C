@@ -3,7 +3,7 @@
 #include<stdio.h>
 int main()
 {
-	printf("Himansh Jeengar\nSAP ID: 590025460\nCourse- BSc CS\nBatch-1");
+	printf("Mayank Singh\nSAP ID: 590026159\nCourse- BSc CS\nBatch-1");
 	printf("\n---------------------------------------------------------------------------------\n");
 	printf("Enter the measurments of each side of the triangle:");
 	double s1, s2, s3, a, b, c;
